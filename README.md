@@ -6,8 +6,8 @@ This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](tinyurl.com
 
 ## Team Members
 
-- Lucas Wang
 - Aakash Koneru
+- Lucas Wang
 - Neeraj Gummalam
 
 ## Features
@@ -17,6 +17,7 @@ This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](tinyurl.com
 - Easy upload of found items with automatic keyword generation
 - Community-based lost and found platform
 - Real-time status updates for items
+
 
 ## Setup
 
