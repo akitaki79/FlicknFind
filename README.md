@@ -21,6 +21,12 @@ This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](tinyurl.com
 
 ## Setup
 
+### Option 1: Use the Deployed App
+
+No installation required! Try Flick n Find directly on Streamlit Cloud: [FlicknFind](https://flicknfind.streamlit.app/)
+
+### Option 2: Run Locally
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/lwang2008/Flick-n-Find.git
