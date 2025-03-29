@@ -2,7 +2,7 @@
 
 Flick n Find is a community-wide lost-and-found platform powered by AI, making it easy to report, search, and reconnect lost items with their owners. Say goodbye to cluttered feeds and hello to effortless recovery! On community apps like Nextdoor, there is a slight chance you find your lost item on your feed. We wanted to make it easy to search for a lost item.
 
-This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](tinyurl.com/FlicknFind).
+This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](https://devpost.com/software/flick-n-find?_gl=1*kkf2b1*_gcl_au*NjM5MjI3MTg2LjE3Mzc3Nzg3OTI.*_ga*MTM5NjI0NTkyNy4xNzM3Nzc4Nzky*_ga_0YHJK3Y10M*MTc0MDYyNzYwMS45LjEuMTc0MDYyNzYwNy4wLjAuMA..).
 
 ## Team Members
 
