@@ -12,6 +12,7 @@ import uuid
 st.set_page_config(page_title="Community Lost & Found", layout="wide")
 st.title("Community Lost & Found")
 
+st.subheader("_This program may operate very slow on the Cloud. Run the program locally for a better experience!_")
 
 
 
