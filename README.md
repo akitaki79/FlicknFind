@@ -29,7 +29,7 @@ No installation required! Try Flick n Find directly on Streamlit Cloud: [FlicknF
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lwang2008/Flick-n-Find.git
+git clone https://github.com/akitaki79/FlicknFind.git
 cd Flick-n-Find
 ```
 
