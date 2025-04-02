@@ -18,6 +18,9 @@ This placed 2nd place at GunnHacks 11.0. Checkout our [devpost here](https://dev
 - Community-based lost and found platform
 - Real-time status updates for items
 
+### Example Usage
+https://www.youtube.com/watch?v=Pee0Tjm7K34 
+
 
 ## Setup
 
